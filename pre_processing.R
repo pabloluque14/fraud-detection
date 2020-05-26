@@ -2,7 +2,7 @@ library(tidyverse)
 library(caret)
 library(dplyr)
 library(tidyselect)
-#library(funModeling)
+library(funModeling)
 library(zoo)
 library(randomForest)
 
