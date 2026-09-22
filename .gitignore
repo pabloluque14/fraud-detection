@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# macOS
+.DS_Store
+
+# Datos locales pesados (datasets_join.zip ya está en el repo; el zip original viene de Kaggle)
+data/datasets_join/
+data/*.zip
